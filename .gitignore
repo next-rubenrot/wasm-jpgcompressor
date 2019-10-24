@@ -1,0 +1,16 @@
+/node_modules
+*.idea
+*.iml
+*idea/
+idea/
+.idea/**
+.idea/
+.git/
+.git/**
+bower_components/
+dist/
+*dist/
+app/bower_components/
+.vscode
+*.DS_Store
+package-lock.json
